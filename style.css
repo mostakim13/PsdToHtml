@@ -232,3 +232,18 @@ body {
   color: #fff;
   font-weight: bold;
 }
+.card3 {
+  background-image: url("/image/card3.png");
+  /* width: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card3 h6 {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+.card3 p {
+  font-size: 14px;
+}
